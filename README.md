@@ -48,13 +48,13 @@ These metrics were computed using TP, FP, and FN values from the benchmark outpu
 ---
 
 ## Project Structure
-HTM-Anomaly-Detection/
-├── code/
-│ └── compute_metrics.py
-├── results/
-│ ├── numenta_standard_scores.csv
-│ └── final_results.json
-└── README.md
+HTM-Anomaly-Detection/<br>
+├── code/<br>
+│ └── compute_metrics.py<br>
+├── results/<br>
+│ ├── numenta_standard_scores.csv<br>
+│ └── final_results.json<br>
+└── README.md<br>
 
 ---
 
